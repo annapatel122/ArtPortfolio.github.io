@@ -3,7 +3,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
-const Submission = require('./models/submission'); // Adjust path as necessary
+const Submission = require('./models/submissions'); // Adjust path as necessary
 
 const app = express();
 const port = process.env.PORT || 3000;
