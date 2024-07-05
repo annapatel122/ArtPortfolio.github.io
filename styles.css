@@ -63,7 +63,7 @@ section {
 }
 
 .art-piece img {
-    width: 200px; /* Set specific width */
+    width: 100px; /* Set specific width */
     height: 150px; /* Set specific height */
     object-fit: cover; /* Ensure image covers the defined dimensions */
 }
