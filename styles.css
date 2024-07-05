@@ -10,20 +10,26 @@ header {
     background-color: #ffb6c1;
     padding: 20px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Stack the title and nav vertically */
 }
 
 header h1 {
     margin: 0;
     color: #fff;
+    text-align: center; /* Center the title text */
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
+    display: flex;
+    justify-content: center; /* Center the navigation links */
+    margin: 10px 0 0 0; /* Add some margin to separate the links from the title */
 }
 
 nav ul li {
-    display: inline;
     margin: 0 10px;
 }
 
@@ -41,13 +47,13 @@ main {
 section {
     margin-bottom: 40px;
     text-align: center;
-    
 }
 
 .gallery-container {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    justify-content: center; /* Center the gallery items */
 }
 
 .art-piece {
@@ -67,3 +73,4 @@ footer {
     text-align: center;
     color: #fff;
 }
+
