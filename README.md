@@ -18,6 +18,8 @@ This project showcases a collection of artworks.
 - ![nodejs](https://github.com/annapatel122/ArtPortfolio.github.io/assets/51863905/0512ea37-4752-47d7-be95-b02fcea14df1)
 ![mongodb](https://github.com/annapatel122/ArtPortfolio.github.io/assets/51863905/bfdab02e-da13-4a0e-a7ae-edc8711e6e0f)
 ![data](https://github.com/annapatel122/ArtPortfolio.github.io/assets/51863905/ae96a9e9-7e4c-4b21-9397-a0732f368916)
+![part2](https://github.com/annapatel122/ArtPortfolio.github.io/assets/51863905/ab31dd19-3741-4d84-82ba-d045daf84ecb)
+![part1](https://github.com/annapatel122/ArtPortfolio.github.io/assets/51863905/81b48df7-5e35-4fda-bee5-8ee860c7dcf6)
 
 
 ## Installation
