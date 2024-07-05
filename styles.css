@@ -9,6 +9,9 @@ body {
 header {
     background-color: #ffb6c1;
     padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
 }
 
