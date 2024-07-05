@@ -63,8 +63,9 @@ section {
 }
 
 .art-piece img {
-    max-width: 100%;
-    height: auto;
+    width: 200px; /* Set specific width */
+    height: 150px; /* Set specific height */
+    object-fit: cover; /* Ensure image covers the defined dimensions */
 }
 
 footer {
