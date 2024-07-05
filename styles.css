@@ -63,10 +63,10 @@ section {
 }
 
 .art-piece img {
-    width: 100px; /* Set specific width */
-    height: 100px; /* Set specific height */
-    object-fit: cover; /* Ensure image covers the defined dimensions */
+    max-width: 100%;
+    height: auto;
 }
+
 
 footer {
     background-color: #ffb6c1;
