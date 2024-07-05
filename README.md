@@ -4,7 +4,7 @@
 This project showcases a collection of artworks. 
 
 ## Technologies Used
-- **Backend**: Node.js, MongoDB
+- **Backend**: Node.js, Express, MongoDB
 - **API**: Fetch API
 
 ## Features
