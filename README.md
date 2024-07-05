@@ -39,7 +39,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 - Email: annapatel122@gmail.com
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/annapatel122)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/anna-patel122)
 
 ## Acknowledgments
 - Special thanks to mentors and friends for their support and feedback.
